@@ -1,0 +1,1 @@
+It manages a parking area of 10 sites, it marks those on red if busy, on green if free, and types on the right all entries or exits of the cars, with date and time of moving.
